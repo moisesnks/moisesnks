@@ -3,7 +3,7 @@
 Computer Engineering student passionate about web development. Always seeking opportunities to learn and overcome challenges. I'm known for being responsible and proactive, enjoying teamwork and contributing to project development.
 
 - 🌐 Currently working at [Lumonidy DEV](https://lumonidy.studio)
-- 👨‍💻 All my projects are available on [GitHub](https://github.com/moisesnks)
+- 👨‍💻 All my projects are available on [GitHub](https://github.com/moisesnks?tab=repositories)
 - 💬 Ask me about **React, JavaScript, C++**
 - 📫 Contact me: **mleiva@utem.cl**
 - 📄 Know more about my experiences [here](https://moisesnks.github.io/Curriculum/)
