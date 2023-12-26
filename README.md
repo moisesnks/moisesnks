@@ -6,7 +6,7 @@ Computer Engineering student passionate about web development. Always seeking op
 - 👨‍💻 All my projects are available on [GitHub](https://github.com/moisesnks?tab=repositories)
 - 💬 Ask me about **React, JavaScript, C++**
 - 📫 Contact me: **mleiva@utem.cl**
-- 📄 Know more about my experiences [here](https://moisesnks.github.io/Curriculum/)
+- 📄 Know more about my experiences [here](https://moisesnks.github.io/cv/)
 - ⚡ Fun fact: **I perform well under pressure**
 
 ## Connect with me
